@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Wayne_KenrlSU_Google",
-      "repo": "https://github.com/Diva-Room/Miku_kernel_xiaomi_wayne",
-      "branch": "TDA",
-      "device": "wayne",
-      "defconfig": "vendor/wayne_defconfig"
+            "name": "miatoll-KernelSU-Proton-release",
+            "repo": "https://github.com/sedatedzx/Xiaomi_Kernel_OpenSource",
+            "branch": "sweet_k6a-r-oss",
+            "device": "sweet_k6a",
+            "defconfig": "sweet_k6a_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
