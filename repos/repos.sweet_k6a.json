@@ -13,7 +13,7 @@
         "url": "https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/+archive/refs/tags/android-13.0.0_r0.130.tar.gz",
         "name": "clang",
         "binPath": ["./bin"]
-      },
+      }
     ],
     "ccache": true,
     "params": {
