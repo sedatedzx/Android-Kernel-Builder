@@ -1,7 +1,7 @@
 [
   {
     "kernelSource": {
-      "name": "Wayne_KenrlSU_Google",
+      "name": "sweet-kernelsu-google",
       "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource",
       "branch": "sweet_k6a-r-oss",
       "device": "sweet_k6a",
@@ -42,8 +42,8 @@
       }
     },
     "AnyKernel3": {
-      "use": false,
-      "release": false,
+      "use": true,
+      "release": true,
       "repo": "https://github.com/easterNday/AnyKernel3/",
       "branch": "sweet_k6a"
     }
