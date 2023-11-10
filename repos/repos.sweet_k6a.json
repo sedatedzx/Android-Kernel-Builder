@@ -2,7 +2,7 @@
     {
         "kernelSource": {
             "name": "miatoll-KernelSU-Proton-release",
-            "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource",
+            "repo": "https://github.com/sedatedzx/Xiaomi_Kernel_OpenSource/blob/sweet_k6a-r-oss",
             "branch": "sweet_k6a-r-oss",
             "device": "sweet_k6a",
             "defconfig": "sweet_k6a_defconfig"
